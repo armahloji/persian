@@ -274,7 +274,7 @@
         weekdaysShort: 'یک‌_دو_سه‌_چه_پن_جم_شن'.split('_'),
         weekdaysMin: 'ی‌_د_س‌_چ_پ_ج_ش'.split('_'),
         months: 'فروردین_اردیبهشت_خرداد_تیر_مرداد_شهریور_مهر_آبان_آذر_دی_بهمن_اسفند'.split('_'),
-        monthsShort: 'فرو_ارد_خرد_تیر_مرد_شهر_مهر_آبا_آذر_دی_بهم_اسف'.split('_'),
+        monthsShort: 'فروردین_اردیبهشت_خرداد_تیر_مرداد_شهریور_مهر_آبان_آذر_دی_بهمن_اسفند'.split('_'),
         ordinal: function (number) {
             return number; // No specific ordinal formatting
         },
