@@ -1,6 +1,6 @@
 {
 	"name": "armahloji/persian",
-	"version": "1.0.1"
+	"version": "1.0.1",
 	"type": "flarum-extension",
 	"description": "Persian language pack for Flarum. (shamsi date)",
 	"homepage": "https://github.com/flarum-lang/persian",
